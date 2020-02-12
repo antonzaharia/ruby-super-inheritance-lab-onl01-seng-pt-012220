@@ -7,5 +7,21 @@ class ChattyStudent < Student
   def raise_hand
     super
     puts "Pick me"
+    super
+    puts "Pick me"
+    super
+    puts "Pick me"
+    super
+    puts "Pick me"
+    super
+    puts "Pick me"
+    super
+    puts "Pick me"
+    super
+    puts "Pick me"
+    super
+    puts "Pick me"
+    super
+    puts "Pick me"
   end
 end
